@@ -1,11 +1,23 @@
 .App {
   text-align: center;
+  color: aqua;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.footer{
+    color: coral;
+    font-weight: bold;
+}
+
+
+.main{
+    color:darkorchid;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
